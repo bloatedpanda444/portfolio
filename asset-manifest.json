@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.99eb4ba6.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/portfolio/static/css/main.33a1fe00.css",
+    "main.js": "/portfolio/static/js/main.aee09c44.js",
+    "static/media/detective_panda.png": "/portfolio/static/media/detective_panda.3f25817a0280a595e75e.png",
+    "static/media/develop.png": "/portfolio/static/media/develop.6bf7b55d42b1207d51be.png",
+    "static/media/background.jpg": "/portfolio/static/media/background.f3a09936b70952e93c8a.jpg",
+    "static/media/pressuredpatty.png": "/portfolio/static/media/pressuredpatty.aeb801a8e64e9babe370.png",
+    "static/media/CHS.png": "/portfolio/static/media/CHS.ce59ba06ca81e52a1bcb.png",
+    "static/media/delight-sh.png": "/portfolio/static/media/delight-sh.aee93a7c13f0b7fb1536.png",
+    "static/media/classified-stamp.png": "/portfolio/static/media/classified-stamp.091e1634e060c7b0c060.png",
     "index.html": "/portfolio/index.html",
-    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.99eb4ba6.js.map": "/portfolio/static/js/main.99eb4ba6.js.map"
+    "main.33a1fe00.css.map": "/portfolio/static/css/main.33a1fe00.css.map",
+    "main.aee09c44.js.map": "/portfolio/static/js/main.aee09c44.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.99eb4ba6.js"
+    "static/css/main.33a1fe00.css",
+    "static/js/main.aee09c44.js"
   ]
 }
