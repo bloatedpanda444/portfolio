@@ -2,7 +2,7 @@ import panda from "./detective_panda.png"
 import patty from "./pressuredpatty.png";
 import chs from "./CHS.png";
 import delight from "./delight-sh.png"
-import develop from "./develop.png"
+import develop from "./devlop.png"
 
 
 export const content = {
@@ -10,9 +10,9 @@ export const content = {
         image: panda,
         header: "Bloated Panda",
         header2: "Welcome!",
-        info1: "Hello and welcome to my portfolio! I’m Bloated Panda, a current senior at Brown University studying computer science, who is very into investigating murder mysteries! Click through the different case files to see some of my various UI/UX work. In my free time I enjoy binge watching Survivor and going on long walks!",
-        header3: "",
-        info2: "",
+        info1: "Hello, I am Bloated Panda, and welcome to my portfolio! I believe that every project you work on can be seen as an investigation, especially in design. You have to gain a deep understanding about how users interact with various technologies to build a successful product. Therefore I have structured this portfolio like a detective would! Click through the different case files to see some of my various UI/UX work. Enjoy :)",
+        header3: "About Me",
+        info2: "I am a current senior at Brown University studying computer science. I am originally from Maryland although I will be moving to Boston next year! In my free time I enjoy binge watching Survivor, going on long walks, and reading all about murder mysteries! ",
         button: false,
         url: ""
 
@@ -41,7 +41,7 @@ export const content = {
         image: delight,
         header: "Iterative Design",
         header2: "Investigation",
-        info1: "This project involved creating an interactive interface for a new app! The app is a mobile dating app for more serious relationships, so you only talk to one person at a time. This project was done using interactive figma prototypes and even involved user testing!",
+        info1: "This project involved creating an interactive interface for a new app! The app is a mobile dating app for more serious relationships, so you only talk to one person at a time. This project was done using interactive figma prototypes and involved implementing feedback from user tests!",
         header3: "Findings",
         info2: "We were able to receive feedback from multiple sources during this project and they all greatly shaped the design. One example of a major change was fleshing out the color scheme for the app. The change involved having the app fully blue when single and then pink while matched. This change allowed the app to have more defined and clear stages.",
         button: true,
@@ -51,9 +51,9 @@ export const content = {
         image: develop,
         header: "Development",
         header2: "Investigation",
-        info1: "This project involved creating an interactive app that allows users to track which Marvel movies they have watched. Additionally, users can filter the movies by what phase they are in and sort the movies by date, runtime, and box office.",
+        info1: "For this project I made an interactive react app that allows users to track which Marvel movies they have watched. Additionally, users can filter the movies by various categories such as what phase they are in. Finally, users can sort the movies by date, runtime, and box office.",
         header3: "Findings",
-        info2: "This project taught me a lot about react and asynchronous programming. The app utilizes both react states and hooks to properly update the data. Additionally it was very fun to create an app all about movies I love!",
+        info2: "This project taught me a lot about react and asynchronous programming. The app utilizes both react states and hooks to properly update the data based on the filters and sorts selected. The project also utilizes components to make all of the cards for the movies. Overall it was very fun to create an app all about movies I love!",
         button: true,
         url: "https://bloatedpanda444.github.io/Develop/"
     }
